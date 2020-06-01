@@ -5,12 +5,10 @@ Also possible to run on editor.p5js.org by pasting sketch.js into the editor and
 
 # Purpose
 To illustrate a better way to visualize a song and using wave forms.
-
+- Width (x-axis) of the terrain can describe frequency
+- Height (y-axis) can describe amplitude
+- Depth (z-axis) can describe time
 # Result
 ![Audio Frequency Terrain](good-visualisation.png)
-
-Width (x-axis) of the terrain can describe frequency
-Height (y-axis) can describe amplitude
-Depth (z-axis) can describe time
 
 Note: Resulting terrain is based on perlin noise and not an audio file. 
