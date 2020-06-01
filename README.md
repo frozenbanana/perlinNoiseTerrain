@@ -9,3 +9,8 @@ To illustrate a better way to visualize a song and using wave forms.
 # Result
 ![Audio Frequency Terrain](good-visualisation.png)
 
+Width (x-axis) of the terrain can describe frequency
+Height (y-axis) can describe amplitude
+Depth (z-axis) can describe time
+
+Note: Resulting terrain is based on perlin noise and not an audio file. 
